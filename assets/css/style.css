@@ -17,3 +17,11 @@
 @import url(receita/receita-imagem.css);
 @import url(receita/receita-titulo.css);
 @import url(receita/receita.css);
+@import url(quemSomos/quemSomos.css);
+@import url(quemSomos/quemSomos-titulo.css);
+@import url(quemSomos/quemSomos-descricao.css);
+@import url(pessoas.css);
+@import url(pessoa/pessoa.css);
+@import url(pessoa/pessoa-nome.css);
+@import url(pessoa/pessoa-funcao.css);
+@import url(pessoa/pessoa-imagem.css);
