@@ -10,3 +10,10 @@
 @import url(sobre/sobre.css);
 @import url(sobre/sobre-titulo.css);
 @import url(sobre/sobre-descricao.css);
+@import url(receitas.css);
+@import url(receita/receita-botao.css);
+@import url(receita/receita-conteudo.css);
+@import url(receita/receita-descricao.css);
+@import url(receita/receita-imagem.css);
+@import url(receita/receita-titulo.css);
+@import url(receita/receita.css);
