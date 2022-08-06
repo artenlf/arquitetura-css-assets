@@ -1,6 +1,7 @@
 @import url(normalize.css);
 @import url(reset.css);
 @import url(cabecalho.css);
+@import url(logo.css);
 @import url(menu/menu-lista.css);
 @import url(menu/menu-item.css);
 @import url(menu/menu-link.css);
@@ -25,3 +26,4 @@
 @import url(pessoa/pessoa-nome.css);
 @import url(pessoa/pessoa-funcao.css);
 @import url(pessoa/pessoa-imagem.css);
+@import url(rodape.css);
