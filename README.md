@@ -9,6 +9,10 @@ Aula 1: Construção do cabeçalho, implementando arquitetura CSS pelo método A
 
 Aula 2: Construção do banner e sobre, implementando método BEM (Block Element Modifier, ou Bloco Elemento Modificador) nas classes HTML.
 
+Aula 3: adição da seção de receitas.
+
 Aula 4: Organização das estilizações CSS em ordem alfabética para facilitar a manutenção dos estilos. Retirando a tag img do banner, afinal o banner é contém uma imagem meramente ilustrativa. Assim, esta deve ser renderizada pelo CSS.
+
+Aula 5: adição do rodapé e responsividade ao site.
 
 Dica: B-E-M ==> B_E--M ==> Bloco__Elemento--Modificador.
