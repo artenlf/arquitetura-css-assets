@@ -15,4 +15,4 @@ Aula 4: Organização das estilizações CSS em ordem alfabética para facilitar
 
 Aula 5: adição do rodapé e responsividade ao site.
 
-Dica: B-E-M ==> B_E--M ==> Bloco__Elemento--Modificador.
+Dica: B-E-M ==> B__E--M ==> Bloco__Elemento--Modificador.
